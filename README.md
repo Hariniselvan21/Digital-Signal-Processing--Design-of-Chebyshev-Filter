@@ -1,4 +1,4 @@
-<img width="1280" height="629" alt="image" src="https://github.com/user-attachments/assets/2c21a0d2-8fa7-4392-944e-3c5a51c87a51" /># Digital-Signal-Processing--Design-of-Chebyshev-Filter
+# Digital-Signal-Processing--Design-of-Chebyshev-Filter
 ## AIM:
 To design of 2nd order Low Pass Chebyshev Filter using using Bilinear Transformation 
 ## SOFTWARE REQUIRED: 
